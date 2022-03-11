@@ -1,0 +1,25 @@
+.cardInfo {
+    font-size: 11px;
+    display: flex;
+    align-items: center;
+}
+
+.cardInfo .date .icon {
+    padding: 0%;
+    color: blue;
+    margin: 0%;
+    /* margin-right: 5px; */
+}
+
+.teamName {
+    margin-right: 10px;
+    background: #d1d1d1;
+    color: #000;
+    padding: 2px 5px;
+}
+
+.date{
+    display: inline-flex;
+    align-items: center;
+    color: #2196f3;
+}
